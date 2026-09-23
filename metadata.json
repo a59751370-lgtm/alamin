@@ -1,0 +1,6 @@
+{
+  "name": "Alamin Browser",
+  "description": "Fast, privacy-focused modern Android web browser with multi-tabs, speed dial, bookmarks, history, reader mode, and ad shield.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
